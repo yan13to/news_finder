@@ -1,0 +1,14 @@
+<h3>News List</h3>
+<%- if !@fetched_news.blank? -%>
+Found <strong><%= @fetched_news.size %></strong> News
+<ul>
+  <%- for fetched_news in @fetched_news do -%>
+  <li>
+    <%= link_to fetched_news[:title], fetched_news[:link] %><br />
+    <%= fetched_news[:description] %>
+  </li>
+  <%- end -%>
+</ul>
+<%- else -%>
+<h4>No news found</h4>
+<%- end -%>

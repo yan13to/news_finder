@@ -1,0 +1,39 @@
+
+<table>
+  <tr>  
+    <td valign="top">
+      <div id="gmap">
+        <%= @map.div(:width => 600, :height => 400) %>
+      </div>
+    </td>
+    <td valign="top">
+      <%- form_remote_tag :url => {:controller => :news, :action => :fetch_news},
+                          :loading => "$('spinner').show();",
+                          :loaded => "$('spinner').hide();" do -%>
+        <h3>News Finder:</h3>
+        <label><%= check_box_tag :kesehatan %>&nbsp;Kesehatan</label><br />
+        <label><%= check_box_tag :olahraga %>&nbsp;Olahraga</label><br />
+        <label><%= check_box_tag :pendidikan %>&nbsp;Pendidikan</label><br />
+        <label><%= check_box_tag :trend_teknologi %>&nbsp;Trend Teknologi</label>
+        <p>
+          <%= text_field_tag :q, @searched_string, 
+              :class => "search_box", 
+              :style => "color:grey;",
+              :id => "search_box", 
+              :onblur => "toggle_default_text('show', 'search_box', 'Enter keywords here')",
+              :onfocus => "toggle_default_text('hide', 'search_box', 'Enter keywords here')" %>
+        </p>
+        <p>
+          <%= submit_tag "Search", :name => nil %>&nbsp;
+          <span id="spinner" style="display:none;color:red;"><strong>Loading...</strong></span>
+        </p>
+      <%- end -%>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="600">
+      <div id="fetched_news"></div>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>

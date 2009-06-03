@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+  <head>
+    <title>THEME NEWS MASHUP</title>
+    <%= GMap.header %>
+    <%= @map.to_html %>
+    <%= stylesheet_link_tag "style" %>
+    <%= javascript_include_tag :defaults %>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header">
+        <h2><%= link_to "THEME NEWS MASHUP", "/" %></h2>
+      </div>
+      <div id="content"><%= yield %></div>
+    </div>
+  </body>
+</html>
