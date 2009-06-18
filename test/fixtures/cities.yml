@@ -1,0 +1,661 @@
+city1:
+  name: JAKARTA
+  latitude: -6.274530166
+  longitude: 106.8585205
+
+city2:
+  name: BANDUNG
+  latitude: -6.92933509984237
+  longitude:  107.627563476562
+
+city3:
+  name: SURABAYA
+  latitude: 7.35447653303067
+  longitude: 112.791137695312
+
+city4:
+  name: MEDAN 
+  latitude: 3.51049690461219
+  longitude: 98.6956787109375
+
+city5:
+  name:  MALANG
+  latitude: -8.02949577428024
+  longitude: 112.670288085937
+
+city6:
+  name: DENPASAR
+  latitude: -8.72511405690598
+  longitude: 115.274047851562
+
+city7:
+  name: MAKASSAR 
+  latitude: -5.22516398867663
+  longitude: 119.448852539062
+
+city8:
+  name: PALEMBANG
+  latitude: -3.03373766365395
+  longitude: 104.749145507812
+
+city9:
+  name: SEMARANG
+  latitude: -7.0274795610523
+  longitude: 110.473022460937
+
+city10:
+  name: SOLO
+  latitude: -8.09476224395577
+  longitude: 111.099243164062
+
+city11:
+  name: YOGYAKARTA
+  latitude: -7.82274981546613
+  longitude: 110.429077148437
+
+city12:
+  name: MANADO
+  latitude: 1.48006002220252
+  longitude: 124.876098632812
+
+city13:
+  name: PEKANBARU
+  latitude: 1.00776057991379
+  longitude: 101.925659179687
+
+city14:
+  name: PADANG
+  latitude: -0.958695451741594
+  longitude: 100.343627929687
+
+city15:
+  name: JAMBI
+  latitude: -1.55181215020798
+  longitude: 102.661743164062
+
+city16:
+  name: PONTIANAK
+  latitude: -0.112792851
+  longitude: 109.3634033
+
+
+city17:
+  name: BANJARMASIN
+  latitude: -3.417649202
+  longitude: 114.6148682
+
+city18:
+  name: JAYAPURA
+  latitude: -2.133783892
+  longitude: 141.663208
+
+
+city19:
+  name: BALIKPAPAN
+  latitude: -1.34313864
+  longitude: 116.8780518
+
+city20:
+  name: SAMARINDA
+  latitude: -0.563223306
+  longitude: 117.1856689
+
+city21:
+  name: GORONTALO
+  latitude: 0.469477213
+  longitude: 123.1072998
+
+city22:
+  name: MADIUN
+  latitude: -7.635138886
+  longitude: 111.5297699
+
+city23:
+  name: KEDIRI
+  latitude: -7.829733752
+  longitude: 112.0131683
+
+city24:
+  name: PEKALONGAN
+  latitude: -6.899887797
+  longitude: 109.6476746
+
+city25:
+  name: BANYUWANGI
+  latitude: -8.236287
+  longitude: 114.358239
+
+
+city26:
+  name: BOGOR 
+  latitude: -6.608043307
+  longitude: 106.799469
+
+city27:
+  name: TANGERANG
+  latitude: -6.184974309
+  longitude: 106.6456604
+
+city28:
+  name: BANDAR LAMPUNG
+  latitude: -5.487684241
+  longitude: 105.2874756
+
+
+city29:
+  name: BANDA ACEH
+  latitude: 4.693959216
+  longitude: 96.95983887
+
+city30:
+  name: BATAM
+  latitude: 1.051515681
+  longitude: 104.0302277
+
+city31:
+  name: MATARAM
+  latitude: -8.649092019
+  longitude: 116.1749268
+
+city32:
+  name: KUPANG
+  latitude: -10.26375357
+  longitude: 123.6346436
+
+city33:
+  name: DILI
+  latitude: -8.56619
+  longitude: 125.588
+
+city34:
+  name: PALU
+  latitude: -0.958695452
+  longitude: 119.9102783
+
+city35:
+  name: MAUMERE
+  latitude: -8.62009
+  longitude: 122.2063
+
+city36:
+  name: BIAK
+  latitude: -1.172926
+  longitude: 136.056702
+
+city37:
+  name: MERAUKE
+  latitude: -8.495994
+  longitude: 140.394501
+
+city38:
+  name: SIDOARJO 
+  latitude: -7.4803068
+  longitude: 112.7348328
+
+
+city39:
+  name: GRESIK
+  latitude: -7.180652477
+  longitude: 112.6469421
+
+city40:
+  name: TUBAN
+  latitude: 
+  longitude: 
+
+city41:
+  name: KLATEN
+  latitude: 79.848358
+  longitude: 110.538925
+
+city42:
+  name: JEMBER
+  latitude: -8.263699
+  longitude: 113.675649
+
+city43:
+  name: PACITAN
+  latitude: -8.211852774
+  longitude: 111.1026764
+ 
+city44:
+  name: TULUNGAGUNG
+  latitude: -8.073417
+  longitude: 111.9072743
+
+city45:
+  name: PASURUAN
+  latitude: -7.644872
+  longitude: 112.903297
+
+city45:
+  name: BONDOWOSO
+  latitude: -7.91175
+  longitude: 113.821788
+
+
+city46:
+  name: SITUBONDO
+  latitude: -7.702981
+  longitude: 114.01477
+
+city47:
+  name: WONOSOBO
+  latitude: -7.351401
+  longitude: 109.905482
+
+city48:
+  name: CILACAP
+  latitude: -7.7293434
+  longitude: 109.0213562
+
+city49:
+  name: BERNE
+  latitude: 46.9479986
+  longitude: 7.4481481
+
+city50:
+  name: LONDON
+  latitude: 51.16464825
+  longitude: 0.043945313
+
+city51:
+  name: NEW YORK
+  latitude: 40.60505613
+  longitude: -73.76220703
+
+city52:
+  name: KUALA LUMPUR
+  latitude: 2.717730402
+  longitude: 101.8103027
+
+city53:
+  name: TOKYO
+  latitude: 35.75958895
+  longitude: 139.7351074
+
+city54:
+  name: WASHINGTON
+  latitude: 47.09206703
+  longitude: -122.2338867
+ 
+city55:
+  name: RIO DE JANEIRO
+  latitude: -22.9035393
+  longitude: -43.2095869
+
+
+city56:
+  name: PARIS
+  latitude: 48.55928054
+  longitude: 2.856445313
+
+city57:
+  name: MILAN
+  latitude: 45.40976321
+  longitude: 9.327392578
+
+city58:
+  name: SEOUL
+  latitude: 37.64439469
+  longitude: 127.0788574
+
+city59:
+  name: FRANKFURT
+  latitude: 50.35574216
+  longitude: 8.558349609
+
+city60:
+  name: BOSTON
+  latitude: 42.35892
+  longitude: -71.05781
+
+city61:
+  name: LOS ANGELES
+  latitude: 33.86068506
+  longitude: -118.2788086
+
+city62:
+  name: BEIJING
+  latitude: 39.80403486
+  longitude: 116.5319824
+
+city63:
+  name: HONGKONG
+  latitude: 22.34736622
+  longitude: 114.1864014
+
+city64:
+  name: SINGAPORE
+  latitude: 1.224516236
+  longitude: 103.9416504
+
+city65:
+  name: BANGKOK
+  latitude: 13.93122373
+  longitude: 100.1019287
+
+city66:
+  name: ROMA
+  latitude: 41.55682571
+  longitude: 12.96386719
+
+city67:
+  name: WINA
+  latitude: 48.39614222
+  longitude: 16.51245117
+
+city68:
+  name: PRAHA
+  latitude: 50.10272965
+  longitude: 14.44702148
+
+city69:
+  name: BERLIN
+  latitude: 52.42564949
+  longitude: 13.50219727
+
+city70:
+  name: AMSTERDAM
+  latitude: 52.27801712
+  longitude: 4.998779297
+
+city71:
+  name: KOPENHAGEN
+  latitude: 55.41571235
+  longitude: 12.96386719
+
+city72:
+  name: BRUSSEL
+  latitude: 50.82999696
+  longitude: 4.405517578
+
+city73:
+  name: MOSCOW
+  latitude: 55.36579254
+  longitude: 38.18847656
+
+city74:
+  name: MADRID
+  latitude: 39.95915783
+  longitude: -3.120117188
+
+city75:
+  name: DUBLIN
+  latitude: 53.28798657
+  longitude: -6.185302734
+
+city76:
+  name: BARCELONA
+  latitude: 41.387917
+  longitude: 2.1699187
+
+city77:
+  name: CARACAS
+  latitude: 10.49605
+  longitude: -66.898277
+
+
+city78:
+  name: OSLO
+  latitude: 59.84187135
+  longitude: 10.77758789
+
+city79:
+  name: STOCKHOLM
+  latitude: 59.26288608
+  longitude: 18.2043457
+
+city80:
+  name: ZURICH
+  latitude: 47.27525376
+  longitude: 8.646240234
+
+city81:
+  name: JENEWA
+  latitude: 46.09964604
+  longitude: 6.251220703
+
+city82:
+  name: PERTH
+  latitude: -31.9554
+  longitude: 115.85859
+
+city83:
+  name: MELBOURNE
+  latitude: -43.71606397
+  longitude: 144.9536133
+
+city84:
+  name: DARWIN
+  latitude: 30.304617
+  longitude: -94.807605
+
+city85:
+  name: SYDNEY
+  latitude: -33.94822061
+  longitude: 151.3146973
+
+city86:
+  name: WELLINGTON
+  latitude: -41.28648
+  longitude: 174.776217
+
+city87:
+  name: AUCKLAND
+  latitude: 115.85859
+  longitude: 174.765735
+
+city88:
+  name: NEW DELHI
+  latitude: 28.12883623
+  longitude: 77.65136719
+
+city89:
+  name: MANILA
+  latitude: 14.60413841
+  longitude: 120.9855652
+
+city90:
+  name: TAIWAN
+  latitude: 23.61902623
+  longitude: 121.3879395
+
+
+city91:
+  name: BANDAR SERI BEGAWAN
+  latitude: 4.9431
+  longitude: 114.9425
+
+city92:
+  name: BOMBAY
+  latitude: 18.45737897
+  longitude: 73.43261719
+
+city93:
+  name: DHAKA
+  latitude: 23.709921
+  longitude: 90.407143
+
+city94:
+  name: CALCUTTA
+  latitude: 22.572646
+  longitude: 88.363895
+ 
+
+city95:
+  name: KAIRO
+  latitude: 29.51483596
+  longitude: 31.77246094
+
+city96:
+  name: DUBAI
+  latitude: 25.03517511
+  longitude: 55.56884766
+
+city97:
+  name: COLOMBO
+  latitude: 6.927468
+  longitude: 79.848358
+
+city98:
+  name: RANGOON
+  latitude: 16.783656
+  longitude: 96.156831
+
+city99:
+  name: KARACHI
+  latitude: 24.74550129
+  longitude: 67.10449219
+
+city100:
+  name: TEHERAN
+  latitude: 35.22647606
+  longitude: 51.72363281
+
+city101:
+  name: BAGHDAD
+  latitude: 33.12773797
+  longitude: 44.58251953
+
+city102:
+  name: RAMALLAH
+  latitude: 31.9615502
+  longitude: 35.9764588
+
+city103:
+  name: BUENOS AIRES
+  latitude: -34.67176799
+  longitude: -58.34289551
+
+city104:
+  name: MEKAH
+  latitude: 21.4273779
+  longitude: 39.8148383
+
+city105:
+  name: ISTANBUL
+  latitude: 41.012379
+  longitude: 28.975926
+
+
+city106:
+  name: DEPOK
+  latitude: -6.3918409
+  longitude: 106.8060388
+
+city107:
+  name: PURWAKARTA
+  latitude: -6.5410792
+  longitude: 107.4440727
+
+city108:
+  name: BEKASI
+  latitude: -6.2474466
+  longitude: 107.1484521
+
+city109:
+  name: SUKABUMI
+  latitude: -6.92405
+  longitude: 106.922203
+
+city110:
+  name: CILEGON 
+  latitude: -6.0169825
+  longitude: 106.040506
+
+city111:
+  name: GRESIK
+  latitude: -7.1617805
+  longitude: 112.6514245
+
+city112:
+  name: CIANJUR
+  latitude: -6.47636
+  longitude: -6.47636
+
+city113:
+  name: CIBINONG 
+  latitude: -6.47636
+  longitude: 106.852952
+
+city114:
+  name: BANYUMAS 
+  latitude: -7.528394
+  longitude: 109.294534
+
+city115:
+  name: UJUNGPANDANG
+  latitude: -5.152193
+  longitude: 119.412399
+
+city116:
+  name: KENDARI
+  latitude: -3.96749
+  longitude: 122.5947
+
+city117:
+  name: DAMASKUS
+  latitude: 33.44488764
+  longitude: 36.44165039
+
+city118:
+  name: TEL AVIV
+  latitude: 32.0554
+  longitude: 34.7595
+
+city119:
+  name: OTTAWA
+  latitude: 45.423494
+  longitude: -75.697933
+
+city120:
+  name: MONTREAL
+  latitude: 45.545447
+  longitude: -73.639076
+
+city121:
+  name: DOHA
+  latitude: 25.281892
+  longitude: 51.517541
+
+city122:
+  name: KIEV
+  latitude: 50.453629
+  longitude: 30.503828
+
+city123:
+  name: LISBON
+  latitude: 38.73331281
+  longitude: -9.16246891
+
+city124:
+  name: BUCHAREST
+  latitude: 44.4479237
+  longitude: 26.097879
+
+city125:
+  name: LA PAZ
+  latitude: -16.49901
+  longitude: -68.146248
+
+city126:
+  name: BOGOTA
+  latitude: 4.6473016
+  longitude: -74.0962677
+
+
+city127:
+  name: MEKSIKO
+  latitude: 23.634501
+  longitude: -102.552784
+
+city128:
+  name: HAVANA
+  latitude: 22.57208597
+  longitude: -81.69433594
+
+city129:
+  name: SAN JOSE
+  latitude: 9.9402022
+  longitude: -84.1001885
