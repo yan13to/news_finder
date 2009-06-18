@@ -4,7 +4,7 @@ Found <strong><%= @fetched_news.size %></strong> News
 <ul>
   <%- for fetched_news in @fetched_news do -%>
   <li>
-    <%= link_to fetched_news[:title], fetched_news[:link] %><br />
+    <%= link_to fetched_news[:title], fetched_news[:link] %> - <%= fetched_news[:category] %><br />
     <%= fetched_news[:description] %>
   </li>
   <%- end -%>

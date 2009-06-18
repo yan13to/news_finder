@@ -7,14 +7,12 @@
       </div>
     </td>
     <td valign="top">
-      <%- form_remote_tag :url => {:controller => :news, :action => :fetch_news},
-                          :loading => "$('spinner').show();",
-                          :loaded => "$('spinner').hide();" do -%>
+      <%- form_tag("/") do -%>
         <h3>News Finder:</h3>
-        <label><%= check_box_tag :kesehatan %>&nbsp;Kesehatan</label><br />
-        <label><%= check_box_tag :olahraga %>&nbsp;Olahraga</label><br />
-        <label><%= check_box_tag :pendidikan %>&nbsp;Pendidikan</label><br />
-        <label><%= check_box_tag :trend_teknologi %>&nbsp;Trend Teknologi</label>
+        <label><%= check_box_tag :kesehatan, "1", params[:kesehatan], :onclick => "this.form.submit()" %>&nbsp;Kesehatan</label><br />
+        <label><%= check_box_tag :olahraga, "1", params[:olahraga], :onclick => "this.form.submit()" %>&nbsp;Olahraga</label><br />
+        <label><%= check_box_tag :pendidikan, "1", params[:pendidikan], :onclick => "this.form.submit()" %>&nbsp;Pendidikan</label><br />
+        <label><%= check_box_tag :trend_teknologi, "1", params[:trend_teknologi], :onclick => "this.form.submit()" %>&nbsp;Trend Teknologi</label>
         <p>
           <%= text_field_tag :q, @searched_string, 
               :class => "search_box", 
@@ -32,7 +30,9 @@
   </tr>
   <tr>
     <td valign="top" width="600">
-      <div id="fetched_news"></div>
+      <div id="fetched_news">
+        <%= render :partial => 'fetched_news', :locals => {:news => @fetched_news} unless @fetched_news.blank? %>
+      </div>
     </td>
     <td>&nbsp;</td>
   </tr>
